@@ -8,6 +8,8 @@ nav:
   - Blog:
     - 第一篇博客: blog/first-post.md
     - 第二篇博客: blog/second-post.md
+    - 人工智能简介: blog/ai-intro.md
+    - 生成式 AI: blog/generative-ai.md
   - About: about.md
 
 theme:
